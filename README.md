@@ -1,0 +1,2 @@
+# Benefits-of-Project-management-software
+As the workplace in modern times continues to evolve, the number of projects which one company handle also increases with time. Thus while managing several projects at a time, the data of these projects also need to be accumulated and stored at one place for easy retrievals in future, and to manage this process smoothly, an effective project management software is required.
